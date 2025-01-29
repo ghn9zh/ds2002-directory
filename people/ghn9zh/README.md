@@ -1,6 +1,6 @@
 #Gwen Thompson
 
-![My Photo](myphoto.PNG)
+![My Photo](IMG_0531.PNG)
 
 - Hometown: Darien, CT
 - Hobbies: Cooking, running, anything outdoors!
